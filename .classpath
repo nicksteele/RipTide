@@ -43,5 +43,6 @@
 	<classpathentry kind="lib" path="lib/user/java-json.jar"/>
 	<classpathentry kind="lib" path="lib/user/ThinkGear.jar"/>
 	<classpathentry kind="lib" path="lib/base/core/core.jar"/>
+	<classpathentry kind="lib" path="lib/user/supercollider/library/supercollider.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

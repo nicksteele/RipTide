@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ThinkGearGUI.js">
+    <Files>
+      <File FileName="Assets\Plugins\ThinkGearController.cs" Line="135" Column="72" />
+      <File FileName="Assets\Scripts\ThinkGearGUI.js" Line="50" Column="1" />
+      <File FileName="Assets\Plugins\reader.js" Line="38" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
