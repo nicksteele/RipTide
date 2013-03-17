@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="lib/base/dxf/dxf.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/dxf/src">
 		<attributes>
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/dxf"/>
@@ -21,79 +20,10 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/net"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/core.jar">
+	<classpathentry kind="lib" path="lib/user/controlP5/controlP5.jar" sourcepath="/Users/Nick/Documents/Processing/libraries/controlP5/src">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-linux-amd64.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-linux-armv6hf.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-linux-i586.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-macosx-universal.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-windows-amd64.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-windows-i586.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/gluegen-rt.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-linux-amd64.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-linux-armv6hf.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-linux-i586.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-macosx-universal.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-windows-amd64.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-windows-i586.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="lib/base/core/jogl-all.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/base/core"/>
+			<attribute name="javadoc_location" value="file:/Users/Nick/Documents/Processing/libraries/controlP5/reference/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/user/controlP5"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/user/MindSetProcessing/MindSetProcessing.jar" sourcepath="/Users/Nick/Documents/Processing/libraries/MindSetProcessing/src">
@@ -108,8 +38,10 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RipTide/lib/user/oscP5"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/user/java-json.jar"/>
 	<classpathentry kind="lib" path="lib/user/ThinkGear.jar"/>
+	<classpathentry kind="lib" path="lib/base/core/core.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
