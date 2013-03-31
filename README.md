@@ -21,6 +21,7 @@ Things To Add
 <dt> Max MSP Scheme </dt>
 <dt> SuperCollider example (although there is a plugin in Riptide for SC) </dt>
 <dt> Python Plugin for PyGame and what have you </dt>
+<dt> Mindwave + Kinect => Max Magic </dt>
 </dl>
 
 Something to make your lives much easier
